@@ -1,12 +1,9 @@
-# Cell 9: Generate README Content
-readme_content = f"""# AI/ML Assignment 8: Evaluating Fine-Tuned LLM Performance
-
 **Student Name:** Ermiyas H.  
 **Base Model:** DistilBERT (distilbert-base-uncased)  
 **Dataset:** IMDb Movie Reviews (Binary Sentiment Analysis)  
 **Fine-Tuning Method:** LoRA (Low-Rank Adaptation)  
 **Test Set Size:** 500 examples  
-**Date:** December 2025
+**Date:** Dec 4 2025
 
 ---
 
